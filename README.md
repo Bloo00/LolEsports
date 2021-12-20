@@ -32,8 +32,12 @@ class App extends Component {
 
 ``` 
 
+# more components to come
+
 # Tests
 
 they are not impemented yet but future me shouuuuld have em in my tomorrow 12/21/2021 if not punch her
 
 to run them do ``` npm test ```
+
+# future test code snippet here
