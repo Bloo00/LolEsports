@@ -17,6 +17,13 @@ html,body {
   background-repeat: no-repeat;
   height: 800px;
   }
+  .hero-body2
+  {background-image: url(https://images.contentstack.io/v3/assets/bltad9188aa9a70543a/blt29964c991e79bd9d/61b859f86d9dd71335c0d453/W21_Show_Open_Promo_YT_thumb.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  }
 
   .articles {
     margin: 5rem 0;

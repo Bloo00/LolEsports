@@ -120,14 +120,12 @@ class Blog extends Component {
                             </div>
                             {/* <!-- END ARTICLE --> */}
                             {/* <!-- START PROMO BLOCK --> */}
+
+                        {/* =================== new block -================ */}
                             <section class="hero is-info is-bold is-small promo-block">
                                 <div class="hero-body2">
                                     <div class="container">
-                                        <h1 class="title">
-                                            <i class="fa fa-bell-o"></i> Nemo enim ipsam voluptatem quia.</h1>
-                                        <span class="tag is-black is-medium is-rounded">
-                                            Natus error sit voluptatem
-                                        </span>
+                                        
                                     </div>
                                 </div>
                             </section>
@@ -136,27 +134,27 @@ class Blog extends Component {
                             <div class="card article">
                                 <div class="card-content">
                                     <div class="media">
-                                        <div class="media-center">
-                                            <img src="https://res.cloudinary.com/ameo/image/upload/v1639144778/typocat_svbspx.png" class="author-image" alt="Placeholder image" />
-                                        </div>
                                         <div class="media-content has-text-centered">
-                                            <p class="title article-title">Cras tincidunt lobortis feugiat vivamus.</p>
-                                            <p class="subtitle is-6 article-subtitle">
-                                                <a href="#">@angela</a> on October 7, 202X
-                                            </p>
                                         </div>
                                     </div>
                                     <div class="content article-body">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan lacus vel facilisis volutpat est velit egestas. Sapien eget mi proin sed. Sit amet mattis vulputate enim.
+                                        Edward Gaming mid laner Lee “Scout” Ye-chan earned the Worlds 2021 final OPPO MVP award for his outstanding performance while playing four different champions across the five games against DWG KIA.
                                         </p>
                                         <p>
-                                            Commodo ullamcorper a lacus vestibulum sed arcu. Fermentum leo vel orci porta non. Proin fermentum leo vel orci porta non pulvinar. Imperdiet proin fermentum leo vel. Tortor posuere ac ut consequat semper viverra. Vestibulum lectus mauris ultrices eros.
+                                            Game 1: Ryze 6/1/8 (victory)
                                         </p>
-                                        <h3 class="has-text-centered">“Everyone should be able to do one card trick, tell two jokes, and recite three poems, in case they are ever trapped in an elevator.”</h3>
                                         <p>
-                                            In eu mi bibendum neque egestas congue quisque egestas diam. Enim nec dui nunc mattis enim ut tellus. Ut morbi tincidunt augue interdum velit euismod in. At in tellus integer feugiat scelerisque varius morbi enim nunc. Vitae suscipit tellus mauris a diam.
-                                            Arcu non sodales neque sodales ut etiam sit amet.
+                                        Game 2: LeBlanc 0/5/1 (defeat)
+                                        </p>
+                                        <p>
+                                        Game 3: Twisted Fate 2/4/5 (defeat)
+                                        </p>
+                                        <p>
+                                        Game 4: Zoe: 1/1/3 (victory)
+                                        </p>
+                                        <p>
+                                        Game 5: Zoe: 5/1/8 (victory)
                                         </p>
                                     </div>
                                 </div>
