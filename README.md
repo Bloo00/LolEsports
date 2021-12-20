@@ -41,3 +41,11 @@ they are not impemented yet but future me shouuuuld have em in my tomorrow 12/21
 to run them do ``` npm test ```
 
 # future test code snippet here
+
+```js
+test('renders Blog Posts Template subtitle', () => {
+    render(<Blog />);
+    const subtitleElement = screen.getByText(/DECEMBER 14, 2021 - BY LOLESPORTS STAFF/i);
+    expect(subtitleElement).toBeInTheDocument();
+});
+```
